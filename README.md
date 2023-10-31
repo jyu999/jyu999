@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jasmin
+- 👋 Hi, I’m Jasmin, call me Jas or J if you are as "lazy" as some of my friends
 - 👀 I’m a interested in carpentry 
 - 🌱 I’m currently working on modernization of legacy application
 - 💞️ I’m looking to collaborate on opensource projects
